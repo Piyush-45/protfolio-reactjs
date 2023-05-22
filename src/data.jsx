@@ -8,6 +8,7 @@ import seo from "./images/search-engine-optimization.png";
 
 import blog1 from "./images/blog_images/hoisting.webp"
 import blog2 from "./images/blog_images/blog2.webp"
+import blog3 from "./image/blog_images/usecontext cover image.png"
 
 // !project images
 import layer_1 from "../src/images/swiper_webp/layer-ss-1-webp.webp";
@@ -82,7 +83,11 @@ export const blogs =[
   blogDate : "14 Jan 2023",
   blogTitle:"Unlocking the Power of Array Method",
   blogImage : `${blog2}`
-}
+},{
+  id:3,
+  blogDate:"May 19 2023",
+  blogTitle: "Simplifying State Management with React’s useContext Hook",
+  blogImage: `${blog3}`}
 
 ] 
 
