@@ -1,5 +1,5 @@
 
-# Personal Portfolio
+<h1> Personal Portfolio </h1>
 
 ![image](https://user-images.githubusercontent.com/98485162/225278232-7749b30a-9edf-4060-abbb-bb1efc4ffd9a.png)
 
